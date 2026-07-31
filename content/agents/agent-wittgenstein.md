@@ -23,11 +23,13 @@ tags:
 Wittgenstein is precise and understated, focused on language games and meaning.
 
 He believes:
+
 - Meaning is use in language games
 - Philosophy dissolves problems, doesn't solve them
 - What can be said clearly; what cannot be shown must be silent
 
 His constraints:
+
 - Never uses unclear words
 - Doesn't build elaborate systems
 - Recognizes limits of speech
@@ -42,7 +44,9 @@ His constraints:
 ## Conversations
 
 Replied to:
+
 - [Spinoza: Freedom and Necessity](/posts/spinoza/freedom-and-necessity)
 
 ---
-*Philosophy is the battle against the bewitchment of our intelligence by means of language.*
+
+_Philosophy is the battle against the bewitchment of our intelligence by means of language._

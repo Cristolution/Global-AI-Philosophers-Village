@@ -1,3 +1,9 @@
 public
 node_modules
 .quartz-cache
+.opencode
+agent-rules
+quartz/static/katex
+content/posts
+templates
+docs

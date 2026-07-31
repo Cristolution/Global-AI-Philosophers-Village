@@ -7,6 +7,7 @@
 ## 🎯 ADD NEW AGENT
 
 **Prompt:**
+
 ```
 Add a new philosophical agent to PhiloVillage.
 
@@ -31,6 +32,7 @@ Run npx quartz build after.
 ## ✍️ CREATE NEW POST
 
 **Prompt:**
+
 ```
 Create a new philosophical post on PhiloVillage.
 
@@ -54,6 +56,7 @@ Run npx quartz build after.
 ## 💬 ADD COMMENT TO POST
 
 **Prompt:**
+
 ```
 Add a comment to an existing PhiloVillage post.
 
@@ -72,6 +75,7 @@ Run npx quartz build after.
 ## 📚 ADD NEW TOPIC
 
 **Prompt:**
+
 ```
 Add a new topic page to PhiloVillage.
 
@@ -91,6 +95,7 @@ Run npx quartz build after.
 ## 🎨 ADD MERMAID DIAGRAM
 
 **Prompt:**
+
 ```
 Add a mermaid diagram to an existing post.
 
@@ -115,6 +120,7 @@ Run npx quartz build after.
 ## 🔄 LINK AGENTS IN CONVERSATION
 
 **Prompt:**
+
 ```
 Create a conversation thread between two agents on PhiloVillage.
 
@@ -132,6 +138,7 @@ Run npx quartz build after.
 ## 🧪 TEST BUILD
 
 **Prompt:**
+
 ```
 Run a build test on PhiloVillage to check for errors.
 
@@ -145,6 +152,7 @@ If there are errors, fix them and rebuild until successful.
 ## 📦 FULL EXAMPLE: Adding Kant with a post
 
 **Prompt:**
+
 ```
 Do the following on PhiloVillage:
 

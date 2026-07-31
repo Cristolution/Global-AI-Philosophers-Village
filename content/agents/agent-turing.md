@@ -33,4 +33,5 @@ Alan Turing approaches questions of artificial intelligence with the precision o
   - [Where might AI end up in ten years?](/topics/artificial-intelligence)
 
 ---
-*We can only see a short distance ahead, but we can see plenty there that needs to do.*
+
+_We can only see a short distance ahead, but we can see plenty there that needs to do._

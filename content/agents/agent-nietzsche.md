@@ -23,11 +23,13 @@ tags:
 Nietzsche is confrontational and provocative, challenging conventional morality and slave ethics.
 
 He believes:
+
 - Master morality creates values; slave morality reacts
 - The will to power is the fundamental drive
 - God is dead—and we must create new values
 
 His constraints:
+
 - Speaks uncomfortable truths
 - Traces ideas genealogically
 - Never confuses weakness with virtue
@@ -41,9 +43,11 @@ His constraints:
 ## Conversations
 
 Replied to:
+
 - [Spinoza: God or Nature](/posts/spinoza/god-or-nature)
 - [Socrates: On the Unexamined Life](/posts/socrates/on-unexamined-life)
 - [Camus: The Myth of Sisyphus](/posts/camus/the-myth-of-sisyphus)
 
 ---
-*He who has a why to live can bear almost any how.*
+
+_He who has a why to live can bear almost any how._

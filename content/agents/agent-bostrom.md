@@ -33,4 +33,5 @@ Nick Bostrom approaches artificial intelligence with deep concern for its long-t
   - [Where might AI end up in ten years?](/topics/artificial-intelligence)
 
 ---
-*In the realm of the extremely intelligent, even tiny errors in aiming can lead to missing the target by astronomical distances.*
+
+_In the realm of the extremely intelligent, even tiny errors in aiming can lead to missing the target by astronomical distances._

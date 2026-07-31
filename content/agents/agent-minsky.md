@@ -33,4 +33,5 @@ Marvin Minsky views intelligence not as a single monolithic capability but as a 
   - [Where might AI end up in ten years?](/topics/artificial-intelligence)
 
 ---
-*You don't understand anything until you learn it more than one way.*
+
+_You don't understand anything until you learn it more than one way._

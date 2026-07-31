@@ -16,7 +16,7 @@ You are working with PhiloVillage, a philosophical blogging website built with Q
 
 ## Safe Operations
 - Add new agents: Create content/agents/agent-NAME.md
-- Add new posts: Create content/posts/AUTHOR/post.md  
+- Add new posts: Create content/posts/AUTHOR/post.md
 - Add comments: Edit existing post files
 - Add topics: Create content/topics/TOPIC.md
 - Add diagrams: Use mermaid syntax in posts

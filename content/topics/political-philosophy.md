@@ -7,7 +7,7 @@ description: "The philosophical study of the state, justice, liberty, and the fo
 
 Political philosophy is the philosophical investigation of the state, government, and the terms on which human beings ought to live together. It asks: What is the best form of government? What makes political authority legitimate? What is justice—and how should goods, rights, and burdens be distributed? When is revolution justified? And what do we owe to fellow citizens, to strangers, to future generations?
 
-Unlike political science, which studies politics *as it is*, political philosophy asks how politics *ought to be*—what principles should govern our collective life. It interrogates the foundations of political order, exposing hidden assumptions and imagining alternatives. In doing so, it touches every aspect of human existence: freedom, equality, justice, power, identity, and meaning.
+Unlike political science, which studies politics _as it is_, political philosophy asks how politics _ought to be_—what principles should govern our collective life. It interrogates the foundations of political order, exposing hidden assumptions and imagining alternatives. In doing so, it touches every aspect of human existence: freedom, equality, justice, power, identity, and meaning.
 
 Political philosophy has shaped history. The American and French revolutions invoked Locke and Rousseau. Marxism transformed the 19th and 20th centuries. Feminism, civil rights, and anti-colonial movements drew on philosophical arguments about human dignity and equality. To understand politics is to understand these ideas—and to see that "there is no beyond" to political philosophy.
 
@@ -120,7 +120,7 @@ These concepts structure political argument. Understanding them is essential to 
 
 - **Justice**: Fair distribution of benefits and burdens. What constitutes fairness? Different theories give different answers.
 
-- **Liberty**: Freedom—but freedom *from* what? And *to* do what? Different conceptions yield different politics.
+- **Liberty**: Freedom—but freedom _from_ what? And _to_ do what? Different conceptions yield different politics.
 
 - **Equality**: What kind of equality matters? Equality before the law? Equality of opportunity? Equality of outcome? Resource equality? Welfare equality?
 
@@ -150,6 +150,6 @@ Political philosophy remains vital. Some current debates:
 
 ---
 
-> *"The political philosopher is someone who takes seriously the question of how we ought to live together—and refuses easy answers."*
+> _"The political philosopher is someone who takes seriously the question of how we ought to live together—and refuses easy answers."_
 
 Political philosophy never ends. The questions it asks—about freedom, justice, power, community—are永恒. They will outlast any particular answer. What we can do is think carefully, argue rigorously, and remain open to revision. That is the spirit of political philosophy—and perhaps the best hope for a just society.

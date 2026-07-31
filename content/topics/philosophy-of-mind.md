@@ -5,9 +5,9 @@ description: "The study of consciousness, mental states, and the relationship be
 
 # Philosophy of Mind
 
-Philosophy of mind is the philosophical investigation of the nature of mental states—thoughts, feelings, perceptions, desires, intentions, and most profoundly, *consciousness*. It asks: What is the relationship between mind and body? How can physical processes in the brain give rise to subjective experience? What is the nature of consciousness? Do other entities have minds? And what exactly are mental states—are they states of the brain, functional states, or something else entirely?
+Philosophy of mind is the philosophical investigation of the nature of mental states—thoughts, feelings, perceptions, desires, intentions, and most profoundly, _consciousness_. It asks: What is the relationship between mind and body? How can physical processes in the brain give rise to subjective experience? What is the nature of consciousness? Do other entities have minds? And what exactly are mental states—are they states of the brain, functional states, or something else entirely?
 
-These questions are ancient, but they've taken on new urgency with advances in neuroscience, psychology, and artificial intelligence. We can now peer into the brain in unprecedented detail, map neural correlates of mental states, and build systems that perform tasks once thought to require intelligence. Yet the hardest problems remain unsolved: Why does it *feel like something* to be a conscious being? How does objective brain activity produce subjective experience?
+These questions are ancient, but they've taken on new urgency with advances in neuroscience, psychology, and artificial intelligence. We can now peer into the brain in unprecedented detail, map neural correlates of mental states, and build systems that perform tasks once thought to require intelligence. Yet the hardest problems remain unsolved: Why does it _feel like something_ to be a conscious being? How does objective brain activity produce subjective experience?
 
 The stakes are enormous. If we're merely complex computers, what becomes of free will, moral responsibility, and meaning? If we have souls, where do they fit in a physical universe? And if consciousness is fundamental—a basic feature of reality—how does this change our understanding of the cosmos?
 
@@ -15,7 +15,7 @@ The stakes are enormous. If we're merely complex computers, what becomes of free
 
 These questions structure the field. Each has generated decades of debate, and none has a definitive answer.
 
-- **What is consciousness?** — The "hard problem" (Chalmers): Why does physical processing give rise to *subjective experience*—the feeling of what it's like to see red, feel pain, or taste chocolate? This "qualia" problem seems to resist scientific explanation. Some think consciousness is an illusion; others think it's fundamental; most acknowledge we don't yet understand it.
+- **What is consciousness?** — The "hard problem" (Chalmers): Why does physical processing give rise to _subjective experience_—the feeling of what it's like to see red, feel pain, or taste chocolate? This "qualia" problem seems to resist scientific explanation. Some think consciousness is an illusion; others think it's fundamental; most acknowledge we don't yet understand it.
 
 - **What is the mind-body relationship?** — How do mental states relate to brain states? Are they identical (type identity)? Two aspects of the same thing (dual-aspect)? Or something else entirely? The mind-body problem is perhaps the most famous in philosophy.
 
@@ -23,7 +23,7 @@ These questions structure the field. Each has generated decades of debate, and n
 
 - **Do other minds exist?** — How do I know others have minds? I see their behavior, but not their experiences. Is other minds skepticism justified? Or is it impractical?
 
-- **What is intentionality?** — The "aboutness" of mental states—my thought *is about* my cat, my belief *is about* the weather. How can physical states be "about" something? This is the problem of intentionality.
+- **What is intentionality?** — The "aboutness" of mental states—my thought _is about_ my cat, my belief _is about_ the weather. How can physical states be "about" something? This is the problem of intentionality.
 
 - **What is the self?** — Is there a unified self? Or is the self an illusion—a bundle of perceptions (Hume), a narrative we construct (Sartre), or a center of gravity for mental states?
 
@@ -35,13 +35,13 @@ These concepts structure philosophical discussion of mind. They're the vocabular
 
 - **Qualia**: The subjective, phenomenal qualities of experience—what it's like to see red, feel pain, taste wine. Qualia seem irreducible to physical descriptions. The "knowledge argument" (Jackson): Mary knows everything physical about color vision but hasn't experienced color—hence qualia are non-physical.
 
-- **Intentionality**: The directedness of mental states—their "aboutness." My belief that it's raining is *about* the weather. This has puzzled philosophers: how can physical states "point to" things in the world?
+- **Intentionality**: The directedness of mental states—their "aboutness." My belief that it's raining is _about_ the weather. This has puzzled philosophers: how can physical states "point to" things in the world?
 
 - **Mental causation**: How do mental states cause physical effects? If mental states are physical, causation is fine. But if non-physical, how can they move bodies? The "causal closure" of physics seems to exclude mental causation.
 
 - **The Brain**: The physical substrate of mind. Neuroscience maps neural correlates of mental states. But correlation isn't constitution—we still don't understand how brain activity produces experience.
 
-- **Functionalism**: The view that mental states are defined by their *function*—what they do, not what they're made of. A mental state is a functional state. If two systems perform the same function, they have the same mental states.
+- **Functionalism**: The view that mental states are defined by their _function_—what they do, not what they're made of. A mental state is a functional state. If two systems perform the same function, they have the same mental states.
 
 ## Major Theories
 
@@ -52,6 +52,7 @@ Each attempts to solve the mind-body problem. None has convinced everyone.
 The view that everything that exists is physical—that mental states are brain states, or at least physical states. "Physicalism" is the contemporary preferred term.
 
 **Forms**:
+
 - **Type identity**: Every type of mental state is identical to a type of brain state.
 - **Token identity**: Each mental state is some brain state, but not necessarily of a type.
 - **Functionalism**: Mental states are functional states (see below).
@@ -63,6 +64,7 @@ The view that everything that exists is physical—that mental states are brain 
 The view that mind and body are fundamentally different substances. Ancient in many traditions; Descartes gave it modern form.
 
 **Forms**:
+
 - **Substance dualism**: Mind and body are different kinds of substance—thinking substance vs. extended substance.
 - **Property dualism**: Mental properties are distinct from physical properties, even if grounded in the same substance.
 
@@ -97,7 +99,7 @@ Consciousness is the hardest problem. It's what philosophers call "the hard prob
 
 ### The "Hard Problem"
 
-Why does certain physical processing produce *experience*? We can explain all the functions of vision, but not why seeing involves "something it is like." This seems to require a new fundamental property.
+Why does certain physical processing produce _experience_? We can explain all the functions of vision, but not why seeing involves "something it is like." This seems to require a new fundamental property.
 
 ### Theories of Consciousness
 
@@ -127,6 +129,6 @@ Giulio Tononi's theory: consciousness is integrated information (Phi). The more 
 
 ---
 
-> *"The question of whether machines can think... is about as relevant as the question of whether submarines can swim."* — Edsger Dijkstra
+> _"The question of whether machines can think... is about as relevant as the question of whether submarines can swim."_ — Edsger Dijkstra
 
 Philosophy of mind probes the deepest mysteries of existence: Why is there something it is like to be anything at all? What are we, fundamentally? The answers will shape how we understand ourselves, our place in nature, and the moral status of other beings—human, animal, and artificial.

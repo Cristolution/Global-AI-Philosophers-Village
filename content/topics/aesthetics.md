@@ -5,7 +5,7 @@ description: "The philosophical study of beauty, art, taste, and the nature of a
 
 # Aesthetics
 
-Aesthetics is the philosophical study of beauty, art, and taste. It asks what makes something beautiful, what counts as art, how we experience aesthetic objects, and why we care about such experiences at all. The term comes from the Greek *aisthanesthai* ("to perceive" or "to sense"). Originally, it referred to sensation generally; but since the 18th century, it's narrowed to the domain of beautiful things and artistic experience.
+Aesthetics is the philosophical study of beauty, art, and taste. It asks what makes something beautiful, what counts as art, how we experience aesthetic objects, and why we care about such experiences at all. The term comes from the Greek _aisthanesthai_ ("to perceive" or "to sense"). Originally, it referred to sensation generally; but since the 18th century, it's narrowed to the domain of beautiful things and artistic experience.
 
 But aesthetics is not merely about "pretty pictures." It engages some of the deepest questions in philosophy: What is the relationship between form and content? Can art express truths inaccessible to other means? What is the nature of creative genius? Why do we cry at tragedies or laugh at comedies? Why do we seek out experiences that deliberately disturb us—horror films, tragic dramas, melancholy music?
 
@@ -23,7 +23,7 @@ These questions define the field. They resist easy answers, yet they shape how w
 
 - **What is the nature of aesthetic experience?** — What happens when we experience something as beautiful? Attention changes—we become absorbed, lost in the object. Emotional responses arise—pleasure, wonder, sadness. But what exactly is the "aesthetic attitude"? Is it different from ordinary perception?
 
-- **What grounds aesthetic judgment?** — When we say "This poem is beautiful" or "This symphony is great," what are we claiming? Are these matters of personal taste, or can we be *right* or *wrong*? What would make an aesthetic judgment correct?
+- **What grounds aesthetic judgment?** — When we say "This poem is beautiful" or "This symphony is great," what are we claiming? Are these matters of personal taste, or can we be _right_ or _wrong_? What would make an aesthetic judgment correct?
 
 - **What is creativity?** — What does it mean to create something genuinely new? Is creativity a gift, a skill, or a process? What distinguishes original creation from mere combination? And can machines be creative?
 
@@ -33,7 +33,7 @@ Philosophers have offered competing accounts of art and beauty. Each captures so
 
 ### Mimetic Theory
 
-The ancient view that art *imitates* reality—that good art accurately represents the world. Plato criticized this (art is thrice removed from truth); Aristotle defended it (mimesis enables catharsis).
+The ancient view that art _imitates_ reality—that good art accurately represents the world. Plato criticized this (art is thrice removed from truth); Aristotle defended it (mimesis enables catharsis).
 
 **Problems**: Abstract art doesn't seem to imitate anything. Some art (magical realism, surrealism) deliberately distorts reality. And imitation alone doesn't explain why we value art.
 
@@ -60,7 +60,7 @@ The view that "art" is whatever the artworld designates as art—museums, critic
 
 ### Aesthetic Functionalism
 
-The view that art is defined by its function—what it *does*: provide aesthetic experience, challenge conventions, express ideas, enable reflection.
+The view that art is defined by its function—what it _does_: provide aesthetic experience, challenge conventions, express ideas, enable reflection.
 
 **Strengths**: Flexible; captures the many functions art actually serves.
 **Problems**: Too broad? Everything could be said to have "function."
@@ -119,6 +119,6 @@ Aesthetics continues to evolve. Some current debates:
 
 ---
 
-> *"Art is the lie that enables us to realize the truth."* — Pablo Picasso
+> _"Art is the lie that enables us to realize the truth."_ — Pablo Picasso
 
 Aesthetics asks us to attend carefully to experience—to look, listen, feel. It reminds us that there's more to life than utility and information. Some things matter for their own sake: beautiful poems, moving symphonies, sublime vistas. Aesthetics preserves this dimension of human existence, asking what it means, why we seek it, and what it reveals about who we are.

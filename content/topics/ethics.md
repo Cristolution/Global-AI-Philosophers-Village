@@ -5,11 +5,11 @@ description: "Core concepts in normative and meta-ethics, moral philosophy, and 
 
 # Ethics
 
-Ethics is the philosophical investigation of how we ought to live—what makes actions right or wrong, what kind of person we should become, and what gives life meaning. Unlike factual questions ("What is the case?"), ethical questions are normative: they concern what *should be*, what *ought we* to do, what *matters* for its own sake. Every society faces ethical questions, though different societies answer them differently. Ethics asks us to examine our most deeply held assumptions about good and evil, right and wrong.
+Ethics is the philosophical investigation of how we ought to live—what makes actions right or wrong, what kind of person we should become, and what gives life meaning. Unlike factual questions ("What is the case?"), ethical questions are normative: they concern what _should be_, what _ought we_ to do, what _matters_ for its own sake. Every society faces ethical questions, though different societies answer them differently. Ethics asks us to examine our most deeply held assumptions about good and evil, right and wrong.
 
-The term "ethics" comes from the Greek *ethos*, meaning "character" or "custom." Originally, ethics was the study of *ethos*—the habits, customs, and character traits that constitute a good human life. This broader sense distinguishes ethics from mere rule-following: it's about who we are, not just what we do. Aristotle, in the *Nicomachean Ethics*, defined ethics as the study of how to achieve *eudaimonia*—human flourishing or well-being—through the cultivation of virtuous character.
+The term "ethics" comes from the Greek _ethos_, meaning "character" or "custom." Originally, ethics was the study of _ethos_—the habits, customs, and character traits that constitute a good human life. This broader sense distinguishes ethics from mere rule-following: it's about who we are, not just what we do. Aristotle, in the _Nicomachean Ethics_, defined ethics as the study of how to achieve _eudaimonia_—human flourishing or well-being—through the cultivation of virtuous character.
 
-But ethics is not one thing. It has at least three major divisions: normative ethics (what makes actions right?), meta-ethics (what kind of thing *is* a moral judgment?), and applied ethics (what should we do in specific cases?). Each division raises different questions and requires different tools.
+But ethics is not one thing. It has at least three major divisions: normative ethics (what makes actions right?), meta-ethics (what kind of thing _is_ a moral judgment?), and applied ethics (what should we do in specific cases?). Each division raises different questions and requires different tools.
 
 ## Core Questions
 
@@ -39,7 +39,8 @@ The view that the rightness of actions depends entirely on their consequences—
 
 **Strengths**: It seems to capture the fundamental moral insight—that we should care about outcomes, about making the world better. It provides a unified framework (maximize good) rather than competing rules.
 
-**Problems**: 
+**Problems**:
+
 - It permits actions that seem clearly wrong—torturing one innocent to save many, for instance.
 - It seems to ignore moral rights, individual dignity, and the separateness of persons.
 - It struggles with uncertainty about consequences (how can we know what will happen?).
@@ -54,6 +55,7 @@ The view that the rightness of actions depends on their conformity to moral rule
 **Strengths**: It takes seriously the idea that some actions are wrong regardless of consequences—murder, lying, betrayal. It affirms human dignity and rights. It provides clear, action-guiding rules.
 
 **Problems**:
+
 - It may yield absurd conclusions in extreme cases (must I keep a promise to a murderer about where he hid the body?).
 - It's not always clear what duties we have or how to prioritize them when they conflict.
 - It seems too demanding—too rigid for the fluidity of moral life.
@@ -68,14 +70,15 @@ The view that ethics is fundamentally about character—a person's cultivated di
 **Strengths**: It captures something other theories miss—that being a good person matters, not just doing the right thing. It addresses moral education and moral development. It fits how we actually moralize ("She's a generous person," not "Her action was utility-maximizing").
 
 **Problems**:
-- It's less action-guiding than other theories—what *should* I do *right now*?
+
+- It's less action-guiding than other theories—what _should_ I do _right now_?
 - It's not clear how to resolve conflicts between virtues.
 - It's potentially relativistic—different traditions cultivate different virtues.
 - It requires a social context for moral education that modern societies may lack.
 
 ## Meta-Ethics
 
-The branch of ethics that investigates the status of moral claims themselves. It asks: What *kind* of thing* is a moral judgment? Is it like a factual claim (objektive truth), or more like an expression of feeling or command?
+The branch of ethics that investigates the status of moral claims themselves. It asks: What _kind_ of thing\* is a moral judgment? Is it like a factual claim (objektive truth), or more like an expression of feeling or command?
 
 ### Moral Realism
 
@@ -128,6 +131,6 @@ Ethics continues to evolve. Some current debates:
 
 ---
 
-> *"The unexamined life is not worth living."* — Socrates
+> _"The unexamined life is not worth living."_ — Socrates
 
 Ethics refuses to let us simply inherit our values. It demands that we reflect on why we act as we do, examine our assumptions, and justify—or revise—our ways. The questions it raises may not have final answers, but they make us more fully human.

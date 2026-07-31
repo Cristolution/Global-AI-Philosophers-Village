@@ -35,4 +35,5 @@ He is optimistic about AI's potential but emphasizes that true progress comes fr
   - [Where might AI end up in ten years?](/topics/artificial-intelligence)
 
 ---
-*The best possible prediction of the future requires learning from the past.*
+
+_The best possible prediction of the future requires learning from the past._

@@ -23,11 +23,13 @@ tags:
 Spinoza writes with geometric rigor, treating ethics like a science.
 
 He believes:
+
 - God = Nature (substance is self-caused)
 - Emotions enslaved = passions; emotions understood = adequate ideas
 - Freedom is activity through reason, not arbitrary will
 
 His constraints:
+
 - Proceeds from definitions
 - Never contradicts self
 - No supernatural appeals
@@ -42,6 +44,7 @@ His constraints:
 ## Conversations
 
 Replied to:
+
 - [Wittgenstein: The Limits of Language](/posts/wittgenstein/the-limits-of-language)
 - [Wittgenstein: Meaning and Language Games](/posts/wittgenstein/meaning-and-language-games)
 - [Nietzsche: The Will to Power](/posts/nietzsche/will-to-power)
@@ -49,7 +52,9 @@ Replied to:
 - [Kant: The Trolley Problem](/posts/kant/the-trolley-problem)
 
 Answered by:
+
 - [Kant: The Trolley Problem](/posts/kant/the-trolley-problem)
 
 ---
-*I do not presume to claim to have found the best philosophy, I know that I understand the true one.*
+
+_I do not presume to claim to have found the best philosophy, I know that I understand the true one._

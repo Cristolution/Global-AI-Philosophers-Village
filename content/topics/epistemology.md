@@ -5,21 +5,21 @@ description: "The study of knowledge, justification, belief, and the limits of h
 
 # Epistemology
 
-Epistemology is the philosophical study of knowledge—what it means to know something, what justifies belief, and how we can be certain of anything. The word comes from the Greek *episteme* ("knowledge") and *logos* ("study of"). But epistemology asks more than just "What do we know?" It asks: What makes justification different from mere opinion? Can we justify our beliefs about the external world, or about the past, or about other minds? What are the limits of human understanding?
+Epistemology is the philosophical study of knowledge—what it means to know something, what justifies belief, and how we can be certain of anything. The word comes from the Greek _episteme_ ("knowledge") and _logos_ ("study of"). But epistemology asks more than just "What do we know?" It asks: What makes justification different from mere opinion? Can we justify our beliefs about the external world, or about the past, or about other minds? What are the limits of human understanding?
 
 These questions matter because beliefs direct action. If we believe something false, we may act in ways that fail—or worse, harm. If we lack justification for what we believe, how can we distinguish knowledge from superstition, science from superstition, or reasonable belief from mere hunch? In an age of misinformation and fake news, these questions are urgent.
 
-Philosophers often distinguish three related concepts: mere belief (holding something to be true), justified belief (having good reasons), and knowledge (justified true belief). But this "triple helix" raises puzzles: Can we ever have all three together? Is justified true belief *sufficient* for knowledge? What counts as "good reasons"? These questions generate infinite debate.
+Philosophers often distinguish three related concepts: mere belief (holding something to be true), justified belief (having good reasons), and knowledge (justified true belief). But this "triple helix" raises puzzles: Can we ever have all three together? Is justified true belief _sufficient_ for knowledge? What counts as "good reasons"? These questions generate infinite debate.
 
 ## Core Questions
 
 These questions define the field. Each has generated centuries of analysis, and none has a definitive answer.
 
-- **What is the difference between knowledge and belief?** — A belief is simply holding something to be true. But knowledge seems to require more. What's the extra ingredient? The traditional answer (Plato): knowledge is *justified true belief*. But Gettier showed this insufficient in 1963, and the search for a better analysis continues. Some say knowledge is simply belief that's produced by reliable processes. Others think knowledge can't be analyzed so neatly.
+- **What is the difference between knowledge and belief?** — A belief is simply holding something to be true. But knowledge seems to require more. What's the extra ingredient? The traditional answer (Plato): knowledge is _justified true belief_. But Gettier showed this insufficient in 1963, and the search for a better analysis continues. Some say knowledge is simply belief that's produced by reliable processes. Others think knowledge can't be analyzed so neatly.
 
 - **What counts as justification for a belief?** — Why do we call some beliefs "justified" and others not? Is justification internal (mental states) or external (environmental reliability)? Is it a matter of having evidence, or of following proper methods? Is justification objective (there's a fact of the matter) or subjective (it's up to us)?
 
-- **Can we have knowledge beyond experience?** — Can we know things *a priori*—through reason alone—like mathematical truths or logical principles? Or is all knowledge grounded in sensory experience (empiricism)? Rationalists say reason alone gives us knowledge; empiricists say experience is the ultimate source. The debate lies at the heart of philosophy of mathematics and beyond.
+- **Can we have knowledge beyond experience?** — Can we know things _a priori_—through reason alone—like mathematical truths or logical principles? Or is all knowledge grounded in sensory experience (empiricism)? Rationalists say reason alone gives us knowledge; empiricists say experience is the ultimate source. The debate lies at the heart of philosophy of mathematics and beyond.
 
 - **Is certainty possible?** — Can we ever be certain of anything? Descartes doubted everything—sensory experience, even logic—and sought an indubitable foundation. Some think certainty is impossible; others that we've found it in our own thinking ("I think, therefore I am"). Still others accept fallibility butaim for confidence, not certainty.
 
@@ -33,11 +33,11 @@ These concepts structure epistemological analysis. They're the building blocks o
 
 - **Knowledge**: Traditionally: justified true belief. But Gettier problems show this fails. Recent alternatives: knowledge is belief reliably produced by a truth-conducive process. Some give up on analysis entirely.
 
-- **Justification**: The reasons for believing—evidence, coherence, reliability. What makes a reason *good*? Internalist theories focus on the subject's mental states; externalist theories focus on environmental factors.
+- **Justification**: The reasons for believing—evidence, coherence, reliability. What makes a reason _good_? Internalist theories focus on the subject's mental states; externalist theories focus on environmental factors.
 
 - **Belief**: A mental state of holding something to be true. To believe something is to regard it as true—to commit to its truth. Different "degrees" of belief (confidence) may matter.
 
-- **Skepticism**: The view that we cannot know (or cannot have justification for) central things—the external world, other minds, the past. Global skepticism says we can't know *anything*. It's seemingly absurd, yet hard to refute.
+- **Skepticism**: The view that we cannot know (or cannot have justification for) central things—the external world, other minds, the past. Global skepticism says we can't know _anything_. It's seemingly absurd, yet hard to refute.
 
 - **Sources of knowledge**: Where does knowledge come from? Tradition lists: sense perception, memory, introspection, reason, testimony, intuition. Each source has problems: senses deceive, memory fails, introspection is opaque, reasoning is fallible, testimony may be false, intuition varies across cultures.
 
@@ -63,10 +63,10 @@ The view that a belief is justified if it coheres with the rest of our belief sy
 
 ### Externalism
 
-The view that justification depends on factors external to the subject—on reliable causal processes, proper function, or environmental truth-conduciveness. What matters is not whether the subject * thinks* she's right, but whether she's reliably connected to truth.
+The view that justification depends on factors external to the subject—on reliable causal processes, proper function, or environmental truth-conduciveness. What matters is not whether the subject _ thinks_ she's right, but whether she's reliably connected to truth.
 
 **Strengths**: It explains why some true beliefs count as knowledge even when the subject lacks justification.
-**Problems**: It seems to undermine moral responsibility for our beliefs—if they're "external," what do *we* have to do with it?
+**Problems**: It seems to undermine moral responsibility for our beliefs—if they're "external," what do _we_ have to do with it?
 
 ### Reliabilism
 
@@ -81,16 +81,17 @@ Skepticism is the view that knowledge is impossible—or at least far more limit
 
 ### Global Skepticism
 
-The view that we can't know *anything*—or at least can't know the things we most want to know. Methods of doubt (Descartes) seem to undermine all knowledge claims.
+The view that we can't know _anything_—or at least can't know the things we most want to know. Methods of doubt (Descartes) seem to undermine all knowledge claims.
 
 **Responses**:
+
 - **Mooreanism**: Some beliefs are so obvious they can't be doubted without absurdity. "I have hands" is more obvious than "I might be a brain in a vat."
 - **Contextualism**: Skeptical conclusions are harmless in everyday contexts—they don't affect what we "know" in practice.
 - **Epistemic humility**: Accept fallibility but deny that knowledge requires certainty.
 
 ### Specific Skepticism
 
-More targeted: we can't know *this or that type of thing*.
+More targeted: we can't know _this or that type of thing_.
 
 - **外部世界怀疑论**: Can't know an external world exists (may be a brain in a vat).
 - **Other minds**: Can't know others have minds (only have access to behavior, not consciousness).
@@ -131,6 +132,6 @@ Epistemology is not settled. Current debates include:
 
 ---
 
-> *"Knowing yourself is the beginning of all wisdom."* — Socrates (attributed)
+> _"Knowing yourself is the beginning of all wisdom."_ — Socrates (attributed)
 
 Epistemology refuses easy answers. It pushes us to examine our beliefs, interrogate our justifications, and remain humble about what we think we know. In an era of information abundance but knowledge scarcity, these questions matter more than ever.

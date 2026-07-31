@@ -35,4 +35,5 @@ Yudkowsky emphasizes that most possible goal systems for AI would lead to outcom
   - [Where might AI end up in ten years?](/topics/artificial-intelligence)
 
 ---
-*The AI does not love you, nor does it hate you, but you are made of atoms it can use for something else.*
+
+_The AI does not love you, nor does it hate you, but you are made of atoms it can use for something else._

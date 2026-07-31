@@ -52,6 +52,7 @@ For over two millennia, Aristotelian logic dominated. It focused on syllogisms�
 ### The Syllogism
 
 A syllogism consists of:
+
 - Major premise: All B are A.
 - Minor premise: All C are B.
 - Conclusion: All C are A.
@@ -61,6 +62,7 @@ This is valid in virtue of its form—the content doesn't matter. The logical an
 ### Limits of Syllogistic
 
 Aristotelian logic handles a limited range of arguments. It can't handle:
+
 - Relations (John loves Mary)
 - Multiple quantifiers (someone loves everyone)
 - Complex sentences
@@ -156,6 +158,6 @@ What's the relationship? Are mathematical truths logical truths (logicism)? Are 
 
 ---
 
-> *"Logic is the foundation of rational discourse. Without it, we're merely shouting in the dark."*
+> _"Logic is the foundation of rational discourse. Without it, we're merely shouting in the dark."_
 
 Logic is indispensable—yet it doesn't answer all questions. Some truths are not logical. Some reasoning is not valid. Logic provides tools, not solutions. It disciplines thought but doesn't replace wisdom. In the end, logic serves philosophy—and philosophy serves the examined life.

@@ -5,7 +5,7 @@ description: "The study of reality, existence, and the nature of being"
 
 # Metaphysics
 
-Metaphysics is the branch of philosophy that investigates the fundamental nature of reality—its structure, its underlying principles, and what it means for something to *be*. While other sciences ask *how* the world works, metaphysics asks *what* the world fundamentally is. It probes the most general questions about existence: What is real? What is the nature of being? What is the relationship between mind and matter? And perhaps most perplexingly: Why is there something rather than nothing?
+Metaphysics is the branch of philosophy that investigates the fundamental nature of reality—its structure, its underlying principles, and what it means for something to _be_. While other sciences ask _how_ the world works, metaphysics asks _what_ the world fundamentally is. It probes the most general questions about existence: What is real? What is the nature of being? What is the relationship between mind and matter? And perhaps most perplexingly: Why is there something rather than nothing?
 
 The term itself comes from Aristotle's work on "first philosophy" (ta meta ta physika—"the things after the physics"), which he placed after his investigations into nature. But metaphysics predates Aristotle: Parmenides in ancient Greece declared that "what is" cannot come from "what is not," while Heraclitus insisted that all things flow. These ancient disputes still echo in contemporary debates about whether reality is fundamentally static or dynamic, one or many.
 
@@ -13,7 +13,7 @@ The term itself comes from Aristotle's work on "first philosophy" (ta meta ta ph
 
 Metaphysics grapples with questions that resist empirical answers—questions we cannot answer through observation or experiment alone. They require conceptual analysis, argument, and sometimes contemplation. Each question has generated centuries of debate, with no definitive resolution in sight.
 
-- **What is real? What exists fundamentally?** — This is the question of ontology (from the Greek *ontos*, "being"). Are tables and chairs real? What about numbers, values, or possible worlds? Some philosophers (materialists) argue only physical stuff exists. Others (idealists) claim only mind or spirit is fundamental. Still others posit two kinds of substance: physical and mental. The debate shapes everything from physics to theology.
+- **What is real? What exists fundamentally?** — This is the question of ontology (from the Greek _ontos_, "being"). Are tables and chairs real? What about numbers, values, or possible worlds? Some philosophers (materialists) argue only physical stuff exists. Others (idealists) claim only mind or spirit is fundamental. Still others posit two kinds of substance: physical and mental. The debate shapes everything from physics to theology.
 
 - **What is the relationship between mind and body?** — The famous "mind-body problem" asks: How can the mental—thoughts, feelings, consciousness—arise from the physical brain? If I'm purely physical, how can I have subjective experiences? If I have a non-physical soul, how does it interact with my brain? This puzzle lies at the heart of philosophy of mind and continues to baffle us today.
 
@@ -73,6 +73,6 @@ Metaphysics has many specialized sub-fields, each addressing particular aspects 
 
 ---
 
-> *"Metaphysics is the finding of bad reasons for what we believe upon instinct."* — F.H. Bradley
+> _"Metaphysics is the finding of bad reasons for what we believe upon instinct."_ — F.H. Bradley
 
 This famous quip captures something true: metaphysics deals in questions that stir deep intuitions, yet resist resolution. Yet dismissing metaphysics as useless misses its point. The questions it asks—about being, time, causation, mind—are the questions that matter most. They frame every other inquiry.
